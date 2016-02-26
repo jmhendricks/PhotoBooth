@@ -4,3 +4,5 @@ This code started at http://www.drumminhands.com/2014/06/15/raspberry-pi-photo-b
 http://www.drumminhands.com/2014/06/15/raspberry-pi-photo-booth/ is a great step-by-step tutorial.
 
 I made a lot of tweaks and did not document them due to time constrainst.
+
+Video of rough version working at https://www.youtube.com/watch?v=m6BxZaMYbJI 
